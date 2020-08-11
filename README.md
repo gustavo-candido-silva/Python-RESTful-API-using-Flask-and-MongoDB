@@ -14,4 +14,4 @@ The API and MongoDB access code are in the "app" folder, being app.py the API co
 * Data fetch through the GET method
 * Data deleting through the DELETE method
 
-## Run the project: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gustavo-candido-silva/Python-RESTful-API-using-Flask-and-MongoDB.git/master/lab)
+## Run the project: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gustavo-candido-silva/Python-RESTful-API-using-Flask-and-MongoDB.git/master?urlpath=lab)
