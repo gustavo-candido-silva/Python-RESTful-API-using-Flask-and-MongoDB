@@ -1,0 +1,29 @@
+###############################################################
+#          jupyter/jupyterlab extensions/kernels              #
+###############################################################
+# beakerx (kernels: java, clojure, groovy, scala, kotlin, sql) and dependencies
+ beakerx
+ py4j
+
+# # sos - script of scripts (multiple kernels)
+ sos
+ sos-notebook
+
+#jupyter/jupyterlab extensions
+jupyterlab
+ipywidgets
+# RISE
+
+jupyter-server-proxy
+
+###############################################################
+#          /jupyter/jupyterlab extensions/kernels              #
+###############################################################
+
+pymongo
+imongo-kernel
+pprintpp
+Flask==1.1.2
+Flask-HTTPAuth==4.1.0
+Flask-RESTful==0.3.8
+requests==2.24.0
