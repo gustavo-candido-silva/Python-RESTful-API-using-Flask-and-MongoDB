@@ -14,3 +14,4 @@ The API and MongoDB access code are in the "app" folder, being app.py the API co
 * Data deleting through the DELETE method
 
 ## Run the project: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gustavo-candido-silva/Python-RESTful-API-using-Flask-and-MongoDB.git/master?urlpath=lab)
+### GitHub repo: [Python RESTful API using Flask and MongoDB](https://github.com/gustavo-candido-silva/Python-RESTful-API-using-Flask-and-MongoDB)
