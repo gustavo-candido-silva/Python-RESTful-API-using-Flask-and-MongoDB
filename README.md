@@ -13,6 +13,7 @@ Os códigos da API e do acesso ao MongoDB estão na pasta "app", sendo `app.py` 
 * Obtenção de dados através do método GET
 * Exclusão de dados através do método DELETE
 
-## Para rodar o Projeto clique no botão e aguarde a imagem ser disponibilizada (Pode demorar alguns minutos):
+## Para rodar o Projeto clique no botão e aguarde a imagem ser disponibilizada 
+## (Pode demorar alguns minutos)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gustavo-candido-silva/Python-RESTful-API-using-Flask-and-MongoDB.git/master?urlpath=lab)
