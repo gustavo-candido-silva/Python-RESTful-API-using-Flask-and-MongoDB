@@ -17,3 +17,4 @@ Os códigos da API e do acesso ao MongoDB estão na pasta "app", sendo `app.py` 
 ## (Pode demorar alguns minutos)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gustavo-candido-silva/Python-RESTful-API-using-Flask-and-MongoDB.git/master?urlpath=lab)
+ 
